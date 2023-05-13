@@ -40,6 +40,19 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-weight: 400;
+    color: black;
+    font-weight: bold;
+}
+
+#voltar {
+    font-weight: 400;
+    color: black;
+
+}
+
+
 
 a {
     color: rgb(255, 255, 255);
@@ -113,6 +126,30 @@ table tr td {
 .centert{
     text-align: left;
 }
+
+
+/*Formulario*/
+button {
+    color: white;
+    height: 5rem;
+    width: 5rem;
+    background-color: #4f8be6;
+    border-radius: 50%;
+}
+
+
+fieldset {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+
+
+
+}
+
+
+
 
 
 
